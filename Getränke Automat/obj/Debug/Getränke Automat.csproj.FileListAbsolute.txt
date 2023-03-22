@@ -1,0 +1,11 @@
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\bin\Debug\Getränke Automat.exe.config
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\bin\Debug\Getränke Automat.exe
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\bin\Debug\Getränke Automat.pdb
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.csproj.AssemblyReference.cache
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.csproj.SuggestedBindingRedirects.cache
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke_Automat.Form1.resources
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke_Automat.Properties.Resources.resources
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.csproj.GenerateResource.cache
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.csproj.CoreCompileInputs.cache
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.exe
+u:\Eigene Dateien\Projekte\SO\Forms\Getränke Automat\obj\Debug\Getränke Automat.pdb
