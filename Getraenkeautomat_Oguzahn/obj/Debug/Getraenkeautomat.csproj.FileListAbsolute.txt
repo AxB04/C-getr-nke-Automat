@@ -1,0 +1,11 @@
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\bin\Debug\Getraenkeautomat.exe.config
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\bin\Debug\Getraenkeautomat.exe
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\bin\Debug\Getraenkeautomat.pdb
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.csproj.AssemblyReference.cache
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.Form1.resources
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.Properties.Resources.resources
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.csproj.GenerateResource.cache
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.exe
+C:\Users\Oguzhan Demirci\Desktop\Schule\SO\Getraenkeautomat\obj\Debug\Getraenkeautomat.pdb
