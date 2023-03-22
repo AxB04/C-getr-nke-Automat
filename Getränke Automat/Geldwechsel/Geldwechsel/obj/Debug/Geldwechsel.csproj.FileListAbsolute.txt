@@ -1,0 +1,11 @@
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.csproj.AssemblyReference.cache
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.csproj.SuggestedBindingRedirects.cache
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.Form1.resources
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.Properties.Resources.resources
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.csproj.GenerateResource.cache
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.csproj.CoreCompileInputs.cache
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\bin\Debug\Geldwechsel.exe.config
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\bin\Debug\Geldwechsel.exe
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\bin\Debug\Geldwechsel.pdb
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.exe
+D:\Schule\SO\Projecte\Geldwechsel\Geldwechsel\obj\Debug\Geldwechsel.pdb
