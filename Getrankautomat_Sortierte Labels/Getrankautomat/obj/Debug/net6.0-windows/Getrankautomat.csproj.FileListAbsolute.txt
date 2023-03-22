@@ -1,0 +1,17 @@
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\bin\Debug\net6.0-windows\Getrankautomat.exe
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\bin\Debug\net6.0-windows\Getrankautomat.deps.json
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\bin\Debug\net6.0-windows\Getrankautomat.runtimeconfig.json
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\bin\Debug\net6.0-windows\Getrankautomat.dll
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\bin\Debug\net6.0-windows\Getrankautomat.pdb
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.csproj.AssemblyReference.cache
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.Form1.resources
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.csproj.GenerateResource.cache
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.AssemblyInfoInputs.cache
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.AssemblyInfo.cs
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.csproj.CoreCompileInputs.cache
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.dll
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\refint\Getrankautomat.dll
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.pdb
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\Getrankautomat.genruntimeconfig.cache
+C:\Users\wypys\OneDrive\Dokumente\Schule\Software\Getrankautomat\Getrankautomat\obj\Debug\net6.0-windows\ref\Getrankautomat.dll
