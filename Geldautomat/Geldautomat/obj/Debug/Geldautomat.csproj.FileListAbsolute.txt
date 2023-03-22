@@ -1,0 +1,11 @@
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\bin\Debug\Geldautomat.exe.config
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\bin\Debug\Geldautomat.exe
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\bin\Debug\Geldautomat.pdb
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.csproj.AssemblyReference.cache
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.Form1.resources
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.Properties.Resources.resources
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.csproj.GenerateResource.cache
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.csproj.CoreCompileInputs.cache
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.exe
+C:\Users\wypys\OneDrive\Desktop\Geldautomat\Geldautomat\obj\Debug\Geldautomat.pdb
